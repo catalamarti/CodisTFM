@@ -1,6 +1,6 @@
 /***********************************************************
  * SIMULATOR OF AN INDIVIDUAL BASED MODEL OF TUBERCULOSIS  *
- * 				DYNAMICS AT A CITY LEVEL  v1.0             *
+ * 		DYNAMICS AT A CITY LEVEL  v1.0             *
  * Developed as a part of a Bachelor's thesis within a     *
  * joint research project of the BIOCOM-SC and inLAB FIB   *
  * departments of the Unversitat Politècnica de Catalunya  *
