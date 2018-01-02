@@ -1,0 +1,6 @@
+#!/bin/bash  
+mkdir -p ./data
+gcc LHS.c -o LHS.o
+./LHS.o
+gcc main.c -lm
+python simulacions.py
